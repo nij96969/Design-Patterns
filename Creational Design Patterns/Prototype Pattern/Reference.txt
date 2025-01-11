@@ -1,0 +1,5 @@
+https://refactoring.guru/design-patterns/prototype
+
+https://www.digitalocean.com/community/tutorials/prototype-design-pattern-in-java
+
+https://www.geeksforgeeks.org/prototype-design-pattern/
