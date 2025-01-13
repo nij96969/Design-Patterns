@@ -4,12 +4,6 @@
 # Log files
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
 # Package Files #
 *.jar
 *.war
@@ -18,36 +12,6 @@
 *.zip
 *.tar.gz
 *.rar
-
-# IDE files
-/.classpath
-/.project
-/.settings/
-/.idea/
-/*.iml
-
-# Maven
-/target/
-/pom.xml.tag
-/pom.xml.releaseBackup
-/pom.xml.versionsBackup
-/pom.xml.next
-/release.properties
-
-# Gradle
-/.gradle
-/build/
-
-# MacOS
-.DS_Store
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# Linux
-*~
 
 # Java-specific
 *.class
@@ -61,28 +25,6 @@ Desktop.ini
 *.class
 *.log
 *.ctxt
-
-# IntelliJ IDEA
-*.iws
-*.iml
-*.ipr
-
-# NetBeans
-/nbproject/private/
-/build/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-# Eclipse
-.metadata
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.settings/
 
 # VS Code
 .vscode/
