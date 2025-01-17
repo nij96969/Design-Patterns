@@ -14,7 +14,7 @@ class RealApiService implements ApiService{
         if (new Random().nextBoolean()) {
             throw new RuntimeException("Simulated random failure");
         }
-
+        
         return "Data from " + end_point;
     }
 }
@@ -36,7 +36,7 @@ class ApiServiceProxy implements ApiService{
 
         while(attempts < retry_count){
             try{
-                if (attempts > 0) { //Rate Limit for failed attaempts
+                if (attempts > 0) { //Rate Limit for failed attempts
                     TimeUnit.MILLISECONDS.sleep(delayBetweenCalls);
                 }
                 

@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=FafNcoBvVQo
+
+https://www.geeksforgeeks.org/chain-responsibility-design-pattern/
+
+https://refactoring.guru/design-patterns/chain-of-responsibility
