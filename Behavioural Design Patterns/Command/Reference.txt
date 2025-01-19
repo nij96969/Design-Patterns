@@ -1,0 +1,5 @@
+https://medium.com/@neerukapoor/command-design-pattern-in-java-7d06dfdd31
+
+https://www.geeksforgeeks.org/command-pattern/
+
+https://refactoring.guru/design-patterns/behavioral-patterns
