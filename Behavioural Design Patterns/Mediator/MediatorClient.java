@@ -15,7 +15,6 @@ class ConcreteNotificationMediator implements NotificationMediator {
     public void addUser(User user) {
         users.add(user);
     }
-
     @Override
     public void sendMessage(String message, User sender, User receiver) {
         if (users.contains(receiver)) {

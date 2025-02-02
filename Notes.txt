@@ -1,0 +1,11 @@
+🚀 Key Differences:
+Aspect	Mediator	Observer
+Communication	Centralized via mediator	Decentralized via direct notifications
+Dependencies	Objects depend on mediator	Observers depend on subject
+Control Flow	Mediator controls interactions	Subject notifies; observers react
+Use Case	Complex workflows, UI coordination	Event handling, reactive systems
+Example	Air Traffic Control	News Subscription, GUI event system
+In simple terms:
+
+Mediator = “Talk to the mediator, and they’ll handle the rest.”
+Observer = “If something changes, I’ll let you know directly.”
