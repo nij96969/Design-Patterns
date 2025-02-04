@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/memento-design-pattern/
+
+https://refactoring.guru/design-patterns/memento
