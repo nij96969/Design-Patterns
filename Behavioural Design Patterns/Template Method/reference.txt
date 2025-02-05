@@ -1,0 +1,3 @@
+https://refactoring.guru/design-patterns/template-method
+
+https://www.geeksforgeeks.org/template-method-design-pattern/
