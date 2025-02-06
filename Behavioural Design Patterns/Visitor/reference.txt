@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/visitor-design-pattern/
+
+https://refactoring.guru/design-patterns/visitor
